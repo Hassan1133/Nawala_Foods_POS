@@ -1,1 +1,1 @@
-This application is a Desktop Application which is developed on java. This is a point of sale project.
+This application is a Desktop Application that is developed using Java, MySQL, and Netbeans. This is a point-of-sale project.
